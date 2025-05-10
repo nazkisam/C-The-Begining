@@ -12,3 +12,4 @@ D:\PLCPP\.NET\C# Tutorial In Hindi\c#tutorial\ConsoleApp1\obj\Debug\net9.0\refin
 D:\PLCPP\.NET\C# Tutorial In Hindi\c#tutorial\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
 D:\PLCPP\.NET\C# Tutorial In Hindi\c#tutorial\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
 D:\PLCPP\.NET\C# Tutorial In Hindi\c#tutorial\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+D:\PLCPP\.NET\C# Tutorial In Hindi\c#tutorial\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
