@@ -11,6 +11,78 @@ namespace Hello
 class Program{
   static void Main(string[] args){
 
+//this file starts from the bottom.
+
+
+
+//string operations
+
+string hello = "hi this is sameem nazki";
+Console.WriteLine(hello[0]);
+
+Console.WriteLine(hello.IndexOf("is"));
+
+Console.WriteLine(hello.Substring(1));
+
+
+
+//string interpolation
+
+string nameInterpolation = Console.ReadLine()?? string.Empty;
+string age = Console.ReadLine()?? string.Empty;
+
+Console.WriteLine($"Your name is {nameInterpolation} and your age is {age}");
+
+
+
+
+
+//concat
+
+Console.WriteLine(String.Concat("sameem", "nazki"));
+
+
+
+//Math operations
+
+int abso = Math.Abs(-34);
+Console.WriteLine(abso);
+
+
+
+
+
+//Adding string.
+
+Console.WriteLine("Enter your name");
+string name2 = Console.ReadLine()?? string.Empty;
+Console.WriteLine("Hi "+ name2 + " how are you?");
+
+Console.WriteLine("how many candies do you want");
+
+ string candyNum =  Console.ReadLine()?? string.Empty;
+
+ int convertedToInt = Convert.ToInt32(candyNum);
+
+Console.WriteLine("you have" + (convertedToInt + 4) + " candies" );
+
+
+
+
+
+
+
+ //Random things.
+
+
+ Console.WriteLine("Enter your name");
+ string name = Console.ReadLine() ?? string.Empty;
+
+ Console.WriteLine("Hi "+name+" how are you?");
+
+
+
+
 
 
 
@@ -32,6 +104,14 @@ double n =  3;
 Console.WriteLine(n);
  
 // casting using the methods.
+
+ int num = Convert.ToInt32("34");
+ Console.WriteLine(num);
+
+
+
+
+
 float var = Convert.ToInt32(3.44);
 Console.WriteLine(var);
  
